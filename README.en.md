@@ -46,8 +46,8 @@ Bot Digi is a WhatsApp-based transaction bot integrated with the DigiFlazz API f
 1. **Clone repository**
 
    ```bash
-   git clone https://github.com/indonumberone/botwa-digiflazz.git
-   cd botwa-digiflazz
+   git clone https://github.com/CiaNet-cell/WA-Digi.git
+   cd WA-Digi
    ```
 
 2. **Install dependencies**
@@ -99,8 +99,8 @@ Bot Digi is a WhatsApp-based transaction bot integrated with the DigiFlazz API f
 1. **Clone repository**
 
    ```bash
-   git clone https://github.com/indonumberone/botwa-digiflazz.git
-   cd botwa-digiflazz
+   git clone https://github.com/CiaNet-cell/WA-Digi.git
+   cd WA-Digi
    ```
 
 2. **Configure environment variables**
@@ -176,7 +176,7 @@ Contributions, issues, and feature requests are welcome!
 
 ## Need a Place to Run the Bot or Setup? Contact
 
-- Email: [ 01muqsith@gmail.com ]
-- GitHub: [indonumberone](https://github.com/indonumberone)
+- Email: [ felicia1110cia@gmail.com ]
+- GitHub: [indonumberone](https://github.com/CiaNet-cell)
 
 ## Premium Features Please Contact Owner
